@@ -2,9 +2,8 @@
 from openai import OpenAI
 import json
 
-client = OpenAI()
 
-def extract_memory(messages):
+def extract_memory(messages, client):
     prompt = f"""
 Your job:
 - Read raw user messages
@@ -40,5 +39,5 @@ User messages:
         messages=[{"role": "user", "content": prompt}]
     )
 
-    memory = json.loads(response.choices[0].message["content"])
+    memory = json.loads(response.choices[0].message.content)
     return memory

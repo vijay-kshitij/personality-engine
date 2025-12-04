@@ -1,3 +1,25 @@
-{}
-
-  
+{
+  "preferences": [
+    "I enjoy working early in the morning.",
+    "I love playing the guitar when I’m stressed.",
+    "I prefer receiving feedback gently.",
+    "I’ve always loved reading psychology books.",
+    "I love long walks in nature.",
+    "I don’t like spicy food.",
+    "I want to improve my physical fitness this year.",
+    "I prefer calm, gentle people over loud or aggressive ones.",
+    "My favorite type of movie is sci-fi."
+  ],
+  "emotional_patterns": [
+    "I get socially exhausted if I talk to too many people in one day.",
+    "I tend to overthink before making decisions.",
+    "I feel happiest when I’m helping someone solve a problem.",
+    "I get anxious when I have too many tasks at once.",
+    "My biggest fear is failing and disappointing people."
+  ],
+  "facts": [
+    "My dream is to work in healthcare tech someday.",
+    "I grew up in a small town and moved to a city for work.",
+    "Learning AI has been exciting for me."
+  ]
+}

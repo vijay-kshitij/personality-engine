@@ -4,15 +4,15 @@ import json
 
 from prompts.persona_prompt import PERSONA_STYLE_GUIDE
 
-client = OpenAI()
 
 PERSONA_TONES = {
     "Calm Mentor": "Speak warmly, reassuringly, and offer step-by-step guidance.",
     "Witty Friend": "Use fun, playful humor while staying helpful.",
-    "Therapist-Style": "Be soft, validating, reflective, and emotionally supportive."
+    "Therapist-Style": "Be soft, validating, reflective, and emotionally supportive.",
+    "Professional Coach": "Be sharp, confident, direct, and motivating"
 }
 
-def persona_reply(user_msg, persona, memory):
+def persona_reply(user_msg, persona, memory, client):
     tone = PERSONA_TONES[persona]
 
     prompt = f"""
@@ -35,4 +35,4 @@ Now generate the JSON response.
         messages=[{"role": "user", "content": prompt}]
     )
 
-    return json.loads(response.choices[0].message["content"])
+    return json.loads(response.choices[0].message.content)

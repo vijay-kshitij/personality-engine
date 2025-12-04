@@ -5,9 +5,8 @@ import json
 
 from prompts.baseline_prompt import BASELINE_PROMPT
 
-client = OpenAI()
 
-def baseline_reply(user_msg, memory):
+def baseline_reply(user_msg, memory, client):
     prompt = f"""
 {BASELINE_PROMPT}
 
@@ -23,4 +22,4 @@ User message:
         messages=[{"role": "user", "content": prompt}]
     )
 
-    return response.choices[0].message["content"]
+    return response.choices[0].message.content

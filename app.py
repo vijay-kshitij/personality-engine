@@ -21,9 +21,9 @@ st.text(messages)
 st.subheader("Step 1: Extract Memory")
 
 if st.button("Extract Memory"):
-    memory = extract_memory(messages)
+    memory = extract_memory(messages, client)
     with open("memory.json", "w") as f:
-        json.dump(memory, f, indent=2)
+        json.dump(memory, f, indent=2, ensure_ascii=False)
     st.success("Memory extracted!")
     st.json(memory)
 
@@ -41,15 +41,15 @@ user_msg = st.text_input("Enter a user message:")
 
 persona = st.selectbox(
     "Choose a persona:",
-    ["Calm Mentor", "Witty Friend", "Therapist-Style"]
+    ["Calm Mentor", "Witty Friend", "Therapist-Style", "Professional Coach"]
 )
 
 if st.button("Generate Responses"):
     if memory is None:
         st.error("Please extract memory first.")
     else:
-        baseline = baseline_reply(user_msg, memory)
-        persona_out = persona_reply(user_msg, persona, memory)
+        baseline = baseline_reply(user_msg, memory, client)
+        persona_out = persona_reply(user_msg, persona, memory, client)
 
         st.write("### Baseline Response")
         st.info(baseline)
