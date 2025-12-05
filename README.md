@@ -121,26 +121,27 @@ Supported personas:
 <img width="762" height="403" alt="Screenshot 2025-12-05 at 12 11 15 PM" src="https://github.com/user-attachments/assets/95dca2e1-f15b-4e5f-bb53-583c646862f3" />
 
 ---
+
 <h3 align="center">Calm Mentor</h3>
 <p align="center">
 <img width="788" height="607" alt="Screenshot 2025-12-05 at 12 04 06 PM" src="https://github.com/user-attachments/assets/c917e235-771e-4f93-8129-7ad7054538fa" />
 </p>
 
----
+<hr>
 
 <h3 align="center">Witty Friend</h3>
 <p align="center">
 <img width="774" height="511" alt="Screenshot 2025-12-05 at 12 10 01 PM" src="https://github.com/user-attachments/assets/ead56c27-ff5e-4cde-b304-6c43eb8811a3" />
 </p>
 
----
+<hr>
 
 <h3 align="center">Therapist</h3>
 <p align="center">
 <img width="731" height="503" alt="Screenshot 2025-12-05 at 12 12 12 PM" src="https://github.com/user-attachments/assets/d9b52115-b0db-4fac-a34b-8a7bb37b5e40" />
 </p>
 
----
+<hr>
 
 <h3 align="center">Professional Coach</h3>
 <p align="center">
