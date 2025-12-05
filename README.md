@@ -132,6 +132,7 @@ Supported personas:
 <p align="center">
 <img width="774" height="511" alt="Screenshot 2025-12-05 at 12 10 01 PM" src="https://github.com/user-attachments/assets/ead56c27-ff5e-4cde-b304-6c43eb8811a3" />
 </p>
+
 ---
 
 <h3 align="center">Therapist</h3>
