@@ -118,15 +118,18 @@ Supported personas:
 ---
 
 # 🆚 Baseline vs Persona Responses  
-Paste screenshots here:
+<img width="758" height="283" alt="Screenshot 2025-12-05 at 12 03 26 PM" src="https://github.com/user-attachments/assets/bcd2c0da-d449-440c-ac6b-ed0d311bae87" />
+
 
 ## 🟦 **Baseline Response Example**
 > *(Insert screenshot here)*  
+<img width="790" height="167" alt="Screenshot 2025-12-05 at 12 03 44 PM" src="https://github.com/user-attachments/assets/5ecee33c-d006-4aa1-8bd9-2de744b23a75" />
 
 ---
 
 ## 🟪 **Persona Response Example**
 > *(Insert screenshot here)*  
+<img width="740" height="448" alt="Screenshot 2025-12-05 at 12 04 11 PM" src="https://github.com/user-attachments/assets/1251d429-cf20-4898-a4d3-7a5469eac824" />
 
 ---
 
