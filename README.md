@@ -20,7 +20,7 @@ The system showcases:
 
 # 🚀 Live Demo (Streamlit Cloud)
 
-👉 **URL:** *[https:](https://personality-engine-assign.streamlit.app/)*
+👉 **URL:** *[Live App](https://personality-engine-assign.streamlit.app/)*
 
 This URL allows evaluators to:
 - Run memory extraction  
