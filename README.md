@@ -118,18 +118,27 @@ Supported personas:
 ---
 
 # 🆚 Baseline vs Persona Responses  
-<img width="758" height="283" alt="Screenshot 2025-12-05 at 12 03 26 PM" src="https://github.com/user-attachments/assets/bcd2c0da-d449-440c-ac6b-ed0d311bae87" />
-
-
-## 🟦 **Baseline Response Example**
-> *(Insert screenshot here)*  
-<img width="790" height="167" alt="Screenshot 2025-12-05 at 12 03 44 PM" src="https://github.com/user-attachments/assets/5ecee33c-d006-4aa1-8bd9-2de744b23a75" />
+<img width="762" height="403" alt="Screenshot 2025-12-05 at 12 11 15 PM" src="https://github.com/user-attachments/assets/95dca2e1-f15b-4e5f-bb53-583c646862f3" />
 
 ---
 
-## 🟪 **Persona Response Example**
-> *(Insert screenshot here)*  
-<img width="740" height="448" alt="Screenshot 2025-12-05 at 12 04 11 PM" src="https://github.com/user-attachments/assets/1251d429-cf20-4898-a4d3-7a5469eac824" />
+Calm Mentor
+<img width="788" height="607" alt="Screenshot 2025-12-05 at 12 04 06 PM" src="https://github.com/user-attachments/assets/c917e235-771e-4f93-8129-7ad7054538fa" />
+
+---
+
+Witty Friend
+<img width="774" height="511" alt="Screenshot 2025-12-05 at 12 10 01 PM" src="https://github.com/user-attachments/assets/ead56c27-ff5e-4cde-b304-6c43eb8811a3" />
+
+---
+
+Therapist
+<img width="731" height="503" alt="Screenshot 2025-12-05 at 12 12 12 PM" src="https://github.com/user-attachments/assets/d9b52115-b0db-4fac-a34b-8a7bb37b5e40" />
+
+---
+
+Professional Coach
+<img width="739" height="509" alt="Screenshot 2025-12-05 at 12 12 55 PM" src="https://github.com/user-attachments/assets/684d50c0-4e4c-43f7-a40b-f89e38c9391d" />
 
 ---
 
